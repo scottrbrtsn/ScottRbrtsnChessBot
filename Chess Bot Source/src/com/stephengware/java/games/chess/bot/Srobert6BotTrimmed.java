@@ -8,7 +8,7 @@ import com.stephengware.java.games.chess.state.*;
 
 
 /**
- * A chess bot which selects its next move at random.
+ * A chess bot which selects its next move using the Utility Function
  * 
  * @author Scott Robertson
  */
