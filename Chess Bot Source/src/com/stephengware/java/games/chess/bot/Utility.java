@@ -10,7 +10,8 @@ import java.util.Iterator;
  * Because we are assuming a two player zero-sum game, we can say that player
  * X is trying to maximize utility and player O is trying to minimize utility.
  * 
- * @author Stephen G. Ware
+ * 
+ * @edited by Scott Robertson
  */
 public class Utility {
 
