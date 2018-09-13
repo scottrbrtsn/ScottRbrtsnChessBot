@@ -8,7 +8,7 @@ In the near future, I hope to add a reinforcement learning alg onto this model t
 
 
 
-
+## To Run
 Instructions from: https://nil.cs.uno.edu/courses/csci4525/projects/chess/
 
 To see a sample tournament between some of these bots, open a terminal window and execute the following command:
