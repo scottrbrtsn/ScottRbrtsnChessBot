@@ -1,3 +1,4 @@
+# Chess Bot
 srobert6.jar is my ChessBot built within the framework of the project (linked below from nil.cs.uno.edu).  It uses adversarial search (Min/Max + A*) to choose each move.  The H factor (calculated in Utility.java) is used to score the value of the next move.  I played around with a variety of strategies, but the highest performing bot (ScottRobert6BotTrimmed.java + Utility.java) used traditional scoring for chess but at a higher order of magnituted for each piece, and then scored position at a fraction of the value for moves where capturing pieces was not involved.  Focus was placed on each king (surround the opponent's king, avoid lines of attack potentially threatening my king).
 
 Its source is under Chess Bot Source.
